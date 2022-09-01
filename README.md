@@ -1,3 +1,5 @@
+[![Ready-Player-Me-Avatar.jpg](https://i.postimg.cc/pr0jKPG2/Ready-Player-Me-Avatar.jpg)](https://postimg.cc/T5Dh6vvS)
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/cristian-maturana/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
