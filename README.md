@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="1000"/>
+  <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="800"/>
 </div>
 
 [![cristianmib GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianmib)](https://github.com/cristianmib/github-readme-stats)
