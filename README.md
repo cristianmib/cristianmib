@@ -39,21 +39,6 @@ Here are some ideas to get you started:
 
 I am an Android and Full Stack Java mobile application developer, with a great capacity for teamwork to apply my knowledge in the professional field, I reinvented myself professionally first in the development of Android mobile applications, I am currently a graduate of a Full Stack development Bootcamp Java, in my GitHub portfolio I have various programming projects, I am looking for an opportunity to grow professionally and show my full potential.
 
-## Communities :dancers:
-- Contributer at [Student Code-in](https://scodein.tech/) ( An Open Source organization.)
-- Contributer at [PClub Summer Of Code](http://pclubsummerofcode.in/) ( ( An Open Source organization.)
-- Campus Ambassador at [HackerEarth](https://www.hackerearth.com/challenges/)
-
-## Technologies :fire:
-- Spring Boot **Spring Boot**.
-- Kotlin
-- Mobile application development using **Android (Java)**.
-- HTML
-- Java
-- Competitive Programming.
-- ****
-- CSS
-- Javascript
 
 <p align="center"> 
   Visitor count<br>
