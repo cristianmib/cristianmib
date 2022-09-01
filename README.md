@@ -1,5 +1,3 @@
-[![Dise-o-sin-t-tulo.png](https://i.postimg.cc/3R4HC1Jz/Dise-o-sin-t-tulo.png)](https://postimg.cc/DJTD7qGc)
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/cristian-maturana/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
