@@ -68,8 +68,8 @@ I am an Android and Full Stack Java mobile application developer, with a great c
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-<a href="https://github.com/ashwanisng">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanisng&theme=radical&hide=glsl,python" />
+<a href="https://github.com/cristianmib">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanisng&theme=radical&hide=glsl,java" />
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ashwanisng&&show_icons=true&theme=radical&line_height=27&v=5" alt="cristianmib GitHub Stats" />
