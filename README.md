@@ -1,3 +1,5 @@
+<img src="https://readyplayer.me/gallery/631103c9666e9239d901e059-umgBvDjpeg" width="600"/>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/cristian-maturana/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
