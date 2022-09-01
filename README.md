@@ -1,4 +1,4 @@
-<img src="https://readyplayer.me/gallery/631103c9666e9239d901e059-umgBvDpng" width="600"/>
+[![Dise-o-sin-t-tulo.png](https://i.postimg.cc/3R4HC1Jz/Dise-o-sin-t-tulo.png)](https://postimg.cc/DJTD7qGc)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/cristian-maturana/">
