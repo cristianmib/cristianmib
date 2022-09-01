@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 I am an Android and Full Stack Java mobile application developer, with a great capacity for teamwork to apply my knowledge in the professional field, I reinvented myself professionally first in the development of Android mobile applications, I am currently a graduate of a Full Stack development Bootcamp Java, in my GitHub portfolio I have various programming projects, I am looking for an opportunity to grow professionally and show my full potential.
     
-### :tools: Languages and Tools:
+### :smiley: Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Git" **alt="Git" width="40" height="40"/> 
