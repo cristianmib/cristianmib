@@ -10,6 +10,16 @@
 </div>
 
 ### Hi there 👋
+</a>
+<a href="https://cristianmib.github.io/CristianMaturanaGitHubPages/">
+  <img align="left" alt="Cristian Medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<br/>
+<br/>
+
+I am an Android and Full Stack Java mobile application developer, with a great capacity for teamwork to apply my knowledge in the professional field, I reinvented myself professionally first in the development of Android mobile applications, I am currently a graduate of a Full Stack development Bootcamp Java, in my GitHub portfolio I have various programming projects, I am looking for an opportunity to grow professionally and show my full potential.
+    
+
 ![](https://komarev.com/ghpvc/?username=your-cristianmib&color=green)
 
 <div id="header" align="center">
@@ -37,15 +47,7 @@
 <a href="https://www.facebook.com/cristian.a.ibarra.12">
   <img align="left" alt="Cristian Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 
-</a>
-<a href="https://cristianmib.github.io/CristianMaturanaGitHubPages/">
-  <img align="left" alt="Cristian Medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<br/>
-<br/>
 
-I am an Android and Full Stack Java mobile application developer, with a great capacity for teamwork to apply my knowledge in the professional field, I reinvented myself professionally first in the development of Android mobile applications, I am currently a graduate of a Full Stack development Bootcamp Java, in my GitHub portfolio I have various programming projects, I am looking for an opportunity to grow professionally and show my full potential.
-    
 ### 🛠 Languages and Tools:
 
 <div>
