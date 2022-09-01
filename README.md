@@ -11,6 +11,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/U16eJ5dFcfiolA5u85/giphy.gif" width="100"/>
+</div>
+
 [![cristianmib GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianmib)](https://github.com/cristianmib/github-readme-stats)
 
  # <a href="https://www.linkedin.com/in/cristian-maturana/">Cristian Maturana</a> :smiley:
