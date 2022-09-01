@@ -62,8 +62,7 @@ Languages and Tools:
 
 ### :fire: My Stats :
     
-    https://github-readme-streak-stats.herokuapp.com/?user=your-cristianmib
-
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cristianmib&theme=nightowl)](https://git.io/streak-stats)
 
 <p align="center"> 
   Visitor count<br>
