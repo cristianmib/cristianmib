@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <div id="header" align="center">
-  <a href='https://postimg.cc/z33Dj0hg' target='_blank'><img src='https://i.postimg.cc/z33Dj0hg/Gif-de-texto-simple-en-blanco-y-negro.gif' border='0' alt='Gif-de-texto-simple-en-blanco-y-negro' width=600"/></a> 
+  <a href="https://postimg.cc/z33Dj0hg' target='_blank'><img src='https://i.postimg.cc/z33Dj0hg/Gif-de-texto-simple-en-blanco-y-negro.gif' border='0' alt='Gif-de-texto-simple-en-blanco-y-negro" width=600"/></a> 
 </div>
     
 <img src="https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif" width="600"/> 
