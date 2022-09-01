@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div id="header" align="center">
-  <a href='https://postimg.cc/z33Dj0hg' target='_blank'><img src='https://i.postimg.cc/z33Dj0hg/Gif-de-texto-simple-en-blanco-y-negro.gif' border='0' alt='Gif-de-texto-simple-en-blanco-y-negro' width=200"/></a> 
+<div id="header" align="left">
+  <a href='https://postimg.cc/z33Dj0hg' target='_blank'><img src='https://i.postimg.cc/z33Dj0hg/Gif-de-texto-simple-en-blanco-y-negro.gif' border='0' alt='Gif-de-texto-simple-en-blanco-y-negro' width=300"/></a> 
 </div>
 
 [![cristianmib GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianmib)](https://github.com/cristianmib/github-readme-stats)
