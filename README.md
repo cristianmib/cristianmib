@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 <div id="header" align="left">
   <a href='https://postimg.cc/z33Dj0hg' target='_blank'><img src='https://i.postimg.cc/z33Dj0hg/Gif-de-texto-simple-en-blanco-y-negro.gif' border='0' alt='Gif-de-texto-simple-en-blanco-y-negro' width=300"/></a> 
 </div>
+    
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800"/> 
 
 [![cristianmib GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianmib)](https://github.com/cristianmib/github-readme-stats)
 
