@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=your-cristianmib&color=green)
 
 <div id="header" align="center">
   <a href="https://postimg.cc/z33Dj0hg' target='_blank'><img src='https://i.postimg.cc/z33Dj0hg/Gif-de-texto-simple-en-blanco-y-negro.gif' border='0' alt='Gif-de-texto-simple-en-blanco-y-negro" width=600"/></a> 
