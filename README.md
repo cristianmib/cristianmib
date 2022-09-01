@@ -55,3 +55,14 @@ I am an Android and Full Stack Java mobile application developer, with a great c
 - CSS
 - Javascript
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/cristianmib/count.svg" />
+</p>
+
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+
