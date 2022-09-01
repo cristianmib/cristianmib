@@ -1,8 +1,3 @@
-</a>
-<a href="https://cristianmib.github.io/CristianMaturanaGitHubPages/">
-  <img align="left" alt="Cristian Medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-
 [![Ready-Player-Me-Avatar.jpg](https://i.postimg.cc/pr0jKPG2/Ready-Player-Me-Avatar.jpg)](https://postimg.cc/T5Dh6vvS)
 
 <div id="badges">
