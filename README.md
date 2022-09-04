@@ -1,3 +1,17 @@
+<script src="three.r119.min.js"></script>
+<script src="vanta.halo.min.js"></script>
+<script>
+VANTA.HALO({
+  el: "#your-element-selector",
+  mouseControls: true,
+  touchControls: true,
+  gyroControls: false,
+  minHeight: 200.00,
+  minWidth: 200.00
+})
+</script>
+More Effects
+
 [![Ready-Player-Me-Avatar.jpg](https://i.postimg.cc/pr0jKPG2/Ready-Player-Me-Avatar.jpg)](https://postimg.cc/T5Dh6vvS)
 
 <div id="badges">
