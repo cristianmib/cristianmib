@@ -44,7 +44,7 @@
 <br/>
 <br/>
 
-Hello, i am an Android and Full Stack Java mobile application developer, with a great capacity for teamwork to apply my knowledge in the professional field, I reinvented myself professionally first in the development of Android mobile applications, I am currently a graduate of a Full Stack development Bootcamp Java, in my GitHub portfolio I have various programming projects, I am looking for an opportunity to grow professionally and show my full potential.
+Hola soy Cristian Maturana, desarrollador de aplicaciones móviles Android y Full Stack Java, con gran capacidad de trabajo en equipo siempre buscando nuevos conocimientos en lo que me gusta, que es crear aplicaciones móviles Android y páginas web.
     
 ### 🛠 Languages and Tools:
 
