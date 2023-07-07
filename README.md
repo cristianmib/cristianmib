@@ -45,9 +45,6 @@
 <br/>
 
 Hola, soy Cristian Maturana, desarrollador de aplicaciones móviles Android y Full Stack Java, con gran capacidad de trabajo en equipo, siempre buscando nuevos conocimientos en lo que me gusta, que es crear aplicaciones móviles Android y páginas web dinámicas.
-
-
-Corregido con https://www.corrector.co/es/
     
 ### 🛠 Languages and Tools:
 
